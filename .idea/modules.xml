@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lr.iml" filepath="$PROJECT_DIR$/lr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timus/timus_tasks.iml" filepath="$PROJECT_DIR$/timus/timus_tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timus/untitled/untitled.iml" filepath="$PROJECT_DIR$/timus/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
